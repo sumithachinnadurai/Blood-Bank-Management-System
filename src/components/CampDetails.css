@@ -1,0 +1,14 @@
+.camp-details {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .camp-details h2 {
+    color: #1976d2;
+    margin-bottom: 20px;
+  }
+  
+  .camp-details p {
+    margin: 5px 0;
+  }
+  
